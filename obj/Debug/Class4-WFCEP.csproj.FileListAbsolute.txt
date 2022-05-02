@@ -1,0 +1,11 @@
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class4-WFCEP\bin\Debug\Class4-WFCEP.exe.config
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class4-WFCEP\bin\Debug\Class4-WFCEP.exe
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class4-WFCEP\bin\Debug\Class4-WFCEP.pdb
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class4-WFCEP\obj\Debug\Class4-WFCEP.csproj.AssemblyReference.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class4-WFCEP\obj\Debug\Class4-WFCEP.csproj.SuggestedBindingRedirects.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class4-WFCEP\obj\Debug\Class4_WFCEP.Form1.resources
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class4-WFCEP\obj\Debug\Class4_WFCEP.Properties.Resources.resources
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class4-WFCEP\obj\Debug\Class4-WFCEP.csproj.GenerateResource.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class4-WFCEP\obj\Debug\Class4-WFCEP.csproj.CoreCompileInputs.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class4-WFCEP\obj\Debug\Class4-WFCEP.exe
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class4-WFCEP\obj\Debug\Class4-WFCEP.pdb
